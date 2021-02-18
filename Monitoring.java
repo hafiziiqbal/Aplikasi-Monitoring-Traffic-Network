@@ -9,6 +9,9 @@ import javax.swing.JOptionPane;
 /*
  bagaian yang sudah saya edit 
  */
+ 
+ /*
+ bagian kedua yang sayya edit
 
 /**
  *
